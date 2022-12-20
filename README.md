@@ -17,7 +17,7 @@ I've used test.io for some time to brush up my skills, however I'm not satisfied
 
 ## My work
 
-* Postman - [a sample from collection runner](https://i.imgur.com/i2ZlYoF.png)
+* Postman - [a sample from collection runner](https://i.imgur.com/i2ZlYoF.png) and [here's](https://i.imgur.com/k3Db6Bp.png) another. 
 
 ## Notes
 
