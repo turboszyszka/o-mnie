@@ -1,6 +1,6 @@
 ## About me
 
-My name is Adrian Rusin. A recent graduate with degree in English. Currently aiming to work within software engineering industry. At the moment, I'm studying Software testing [(Tester oprogramowania)](https://web.archive.org/web/20221220104904/https://www.wsb.pl/gdynia/studia-i-szkolenia/studia-podyplomowe/kierunki/tester-oprogramowania) postgraduate at WSB Gdynia, in order to structurize my elementary knowledge and build proper foundations for the intermediate one. 
+My name is Adrian Rusin. A recent graduate with degree in English. Currently aiming to work within software engineering industry. At the moment, I'm studying Software testing [(Tester oprogramowania)](https://web.archive.org/web/20221220104904/https://www.wsb.pl/gdynia/studia-i-szkolenia/studia-podyplomowe/kierunki/tester-oprogramowania) postgraduate at WSB Gdynia, in order to structurize my knowledge and build proper foundations using help of experienced testers. 
 
 ## Tools used
 
@@ -32,7 +32,7 @@ I've used test.io for some time to brush up my skills, however I'm not satisfied
 
 ## Notes
 
-restful booker(where I tested some requests) - documentation available [here](https://restful-booker.herokuapp.com/apidoc/index.html)
+restful booker - documentation [here](https://restful-booker.herokuapp.com/apidoc/index.html)
 
 trello - [documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/)
 
