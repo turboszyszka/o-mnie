@@ -13,12 +13,12 @@ My name is Adrian Rusin. A recent graduate with degree in English. Currently aim
 ## Skills
 
 * Patient learner;
-* Able to use Microsoft Office suite well;
-* Team player;
-* Able to work independently;
-* High attention to detail;
-* Strives to find the cause of an issue;
-* Knowledge of ISTQB FL (haven't tried exam yet)
+* able to use Microsoft Office suite well;
+* team player;
+* able to work independently;
+* high attention to detail;
+* strives to find the cause of an issue;
+* knowledge of ISTQB FL (haven't tried exam yet)
 
 ## Experience
 
