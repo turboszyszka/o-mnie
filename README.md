@@ -8,6 +8,7 @@ My name is Adrian Rusin. A recent graduate with degree in English. Currently aim
 * Confluence
 * Postman
 * Jenkins (basics)
+* SQL (basics)
 
 ## Skills
 
@@ -17,7 +18,7 @@ My name is Adrian Rusin. A recent graduate with degree in English. Currently aim
 * Able to work independently;
 * High attention to detail;
 * Strives to find the cause of an issue;
-* Knowledge of ISTQB FL
+* Knowledge of ISTQB FL (haven't tried exam yet)
 
 ## Experience
 
