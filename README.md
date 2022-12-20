@@ -16,7 +16,8 @@ My name is Adrian Rusin. A recent graduate with degree in English. Currently aim
 * Team player;
 * Able to work independently;
 * High attention to detail;
-* Strives to find the cause of an issue
+* Strives to find the cause of an issue;
+* Knowledge of ISTQB FL
 
 ## Experience
 
