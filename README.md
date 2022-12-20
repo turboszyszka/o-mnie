@@ -23,7 +23,7 @@ My name is Adrian Rusin. A recent graduate with degree in English. Currently aim
 
 ## Experience
 
-As per my resume, I worked as FQA for about 4 months, in QLOC. Keep in mind, this is a company that specializes in video games QA. I can't really write about what I tested nor how exactly was it done due to non-disclosure agreement, but that's something I can discuss during the interview. Main objective was to find issues, read documentation available on Confluence or somewhere else, report bugs on Jira and from time to time, review the product.
+As per my resume, I worked as FQA for about 4 months, in QLOC. Keep in mind, this is a company that specializes in video games QA. Due to non-disclosure agreement I am unable to give exact details of my work, however we can discuss the topic during the interview. My main objective was to find issues/bugs, read documentation available on Confluence or contribue to it, report bugs on Jira and from time to time, review the product.
 
 I've used test.io for some time to brush up my skills, however I'm not satisfied with how crowd testing works. Nonetheless, whenever I have free time I try to perform tests(mostly exploratory testing + user stories) on hotel booking sites or a shopping site here and there. 
 
