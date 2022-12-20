@@ -19,7 +19,7 @@ My name is Adrian Rusin. A recent graduate with degree in English. Currently aim
 * high attention to detail;
 * strives to find the cause of an issue;
 * familiar with software testing terminology;
-* knowledge of ISTQB FL (haven't tried exam yet)
+* knowledge of ISTQB FL (haven't booked an exam yet)
 
 ## Experience
 
