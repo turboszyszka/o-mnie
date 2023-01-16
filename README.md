@@ -34,7 +34,7 @@ I've used test.io for some time to brush up my skills, however I'm not satisfied
 
 ## Notes
 
-restful booker - documentation [here](https://restful-booker.herokuapp.com/apidoc/index.html)
+restful booker - [documentation](https://restful-booker.herokuapp.com/apidoc/index.html)
 
 trello - [documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/)
 
