@@ -4,8 +4,8 @@ My name is Adrian Rusin. A recent university graduate with degree in English. Cu
 
 ## Tools used
 
-* Jira
-* Confluence
+* Jira (professionally)
+* Confluence (professionally)
 * Postman
 * Jenkins (basics)
 * SQL (basics)
@@ -15,7 +15,7 @@ My name is Adrian Rusin. A recent university graduate with degree in English. Cu
 * Patient learner;
 * able to use Microsoft Office suite very well;
 * team player;
-* able to work independently;
+* but also able to work independently;
 * high attention to detail;
 * strives to find the cause of an issue;
 * familiar with software testing terminology;
@@ -23,10 +23,10 @@ My name is Adrian Rusin. A recent university graduate with degree in English. Cu
 
 ## Experience
 
-As per my resume, I worked as FQA for about 4 months, in QLOC. Keep in mind, this is a company that specializes in video games QA. Due to non-disclosure agreement I am unable to give exact details of my work, however we can discuss the topic during the interview. My main objective was to find issues/bugs, read documentation available on Confluence or contribue to it, report bugs on Jira and from time to time, review the product.
+As per my resume, I worked as Junior FQA (Functional Quality Assurance) for about 4 months, in QLOC. QLOC is a company that specializes in QA for video games. Due to non-disclosure agreement I am unable to give exact details of my work, however we can discuss it during the interview. My main objective was to find issues/bugs, use documentation available on Confluence or contribue to it, report bugs on Jira and from time to time, review the product while suggesting possible improvements or just relay my own experiences towards the product.
 Therefore, I have no problems writing bug reports, where it is in English or in Polish. I have experience working with Jira as main bug reporting tool, and Confluence as source of documentation. Terminology such as smoke tests, regression testing or confirmation testing are well known to me.  
 
-I've used test.io for some time to brush up my skills, however I'm not satisfied with how crowd testing works. Nonetheless, whenever I have free time I try to perform tests(mostly exploratory testing + user stories) on hotel booking sites or a shopping site here and there. 
+I've used test.io for some time to brush up my skills, however due to inconsistent timing of the tests and full time job, this is more of a leisure activity. Nonetheless, whenever I have free time I try to perform tests(mostly exploratory testing + user stories) on hotel booking sites or a shopping site here and there. 
 
 ## My work
 
