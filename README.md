@@ -38,5 +38,6 @@ restful booker - documentation [here](https://restful-booker.herokuapp.com/apido
 
 trello - [documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/)
 
-Currently doing Postman 30 day challenge, 2/3 complete - 12 January. 
+Currently doing [Postman 30 day challenge](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/overview), 19/30 complete - 16 January. 
+
 This is read-only version of Github, using gitfront.io. 
