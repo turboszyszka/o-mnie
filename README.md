@@ -6,6 +6,7 @@ My name is Adrian Rusin. A recent university graduate with degree in English. Cu
 
 * Jira (professionally)
 * Confluence (professionally)
+* Testrail
 * Postman
 * Jenkins (basics)
 * SQL (basics)
@@ -19,24 +20,20 @@ My name is Adrian Rusin. A recent university graduate with degree in English. Cu
 * high attention to detail;
 * strives to find the cause of an issue;
 * familiar with software testing terminology;
-* knowledge of ISTQB FL (haven't booked an exam yet)
+* equipped with knowledge of ISTQB FL
 
 ## Experience
 
-Currently I'm working as a Junior Analyst at PwC.
-As per my resume, I worked as Junior FQA (Functional Quality Assurance) for about 4 months in QLOC. QLOC is a video game testing company. The employment was quite short due to the fact that I worked during summer holidays when I was studying at a university.
+Currently I'm working as a Analyst at PwC.
+As per my resume, I worked as Junior FQA (Functional Quality Assurance) for about 4 months in QLOC. QLOC is a video game testing company. The employment was short due to the fact that I worked during summer holidays, so I had to return to the university which was located in a different city.
 Both companies were located in Gdańsk. 
 
 ## My work
 
-* Postman - [a sample from collection runner](https://i.imgur.com/i2ZlYoF.png) and [here's](https://i.imgur.com/k3Db6Bp.png) another.
+[![30 days of Postman](https://i.imgur.com/QMIAQoT.png)](https://api.badgr.io/public/assertions/qxP7VocOS-63hWJWDrzchw?identity__email=adrusin%40wp.pl) 
+
+(badge is clickable) 30 challenges in Postman, a badge for completing them all.
 
 ## Notes
-
-restful booker - [documentation](https://restful-booker.herokuapp.com/apidoc/index.html)
-
-trello - [documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/)
-
-Currently doing [Postman 30 day challenge](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/overview), 19/30 complete - 16 January. 
 
 This is read-only version of Github, using gitfront.io. 
