@@ -32,7 +32,7 @@ Both companies were located in Gdańsk.
 
 [![30 days of Postman](https://i.imgur.com/QMIAQoT.png)](https://api.badgr.io/public/assertions/qxP7VocOS-63hWJWDrzchw?identity__email=adrusin%40wp.pl) 
 
-(badge is clickable) 30 challenges in Postman, a badge for completing them all.
+(badge is clickable) Postman issued 30 challenges, which if you complete, you can gain a badge. Here's mine. 
 
 ## Notes
 
