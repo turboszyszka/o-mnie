@@ -1,6 +1,6 @@
 ## About me
 
-My name is Adrian Rusin. A university graduate with degree in English. Currently aiming to work within software engineering industry. Have just finished studying Software testing [(Tester oprogramowania)](https://www.wsb.pl/gdynia/studia-i-szkolenia/studia-podyplomowe/kierunki/tester-oprogramowania) postgraduate at WSB (now Merito) Gdynia, in order to structurize my knowledge and build proper foundation using help of experienced testers and mentors. 
+My name is Adrian Rusin. Employed as Senior Analyst for FCU in PwC Poland. Currently aiming to work within software engineering industry. Have just finished studying Software testing [(Tester oprogramowania)](https://www.wsb.pl/gdynia/studia-i-szkolenia/studia-podyplomowe/kierunki/tester-oprogramowania) postgraduate at WSB (now Merito) Gdynia, in order to structurize my knowledge and build proper foundation using help of experienced testers and mentors. 
 
 ## Tools used
 
