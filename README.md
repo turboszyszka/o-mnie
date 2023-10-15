@@ -24,7 +24,7 @@ My name is Adrian Rusin. Employed as Senior Analyst for FCU in PwC Poland. Curre
 ## Experience
 
 Currently I'm working as a Senior Analyst at PwC.
-As per my resume, I worked as Junior FQA (Functional Quality Assurance) for about 4 months in QLOC. QLOC is a video game testing company.
+As per my resume, I worked as Junior FQA (Functional Quality Assurance) for about 4 months in QLOC, which is a video game testing company.
 Both companies are located in Gdańsk. 
 
 ## My work
